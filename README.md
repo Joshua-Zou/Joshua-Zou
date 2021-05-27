@@ -38,6 +38,11 @@
 ![Go](https://img.shields.io/badge/-Go%20Lang-000000?style=flat&logo=go&Color=339933)
 ---
 
+## Want to support me? 
+Bitcoin - 38krZgthX9vYqNKiQ9GzY6mpfzEC9W1E26
+Ethereum - 0x8a04852f8c15f1b2ff1ded149410c4535d944b1c
+DOGE (to the moon) - DBFhTwD7kPkvYMhxT723WtyPEhgg2YdHfF
+Or if you prefer USDT - 0x8a04852f8c15f1b2ff1ded149410c4535d944b1c
 
 <a href="https://github.com/Joshua-Zou/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Zou&langs_count=10&theme=react" />
