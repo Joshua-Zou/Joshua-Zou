@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Joshua Zou, a 13 yr old full stack developer.
 [LinkedIn](https://www.linkedin.com/in/joshua-zou/)   |   [DevPost](https://devpost.com/Joshua-Zou)  |   [Github](https://github.com/Joshua-Zou)  |   [Replit](https://replit.com/@JoshuaZou)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=Joshua-Zou&color=green)
 
 - 🔭 I’m currently working on [Coin-Tunnel](https://www.coin-tunnel.ml), an open source crypto payment system
 - 🌱 I’m currently learning front end ~~garbage~~ things like HTML/CSS
