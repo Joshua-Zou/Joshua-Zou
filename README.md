@@ -40,7 +40,7 @@
 
 
 <a href="https://github.com/Joshua-Zou/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Zou&langs_count=3&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Zou&langs_count=10&theme=react" />
 </a>
 <a href="https://github.com/Joshua-Zou">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joshua-Zou&theme=react" />
