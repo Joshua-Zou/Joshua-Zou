@@ -18,3 +18,6 @@
 <a href="https://github.com/Joshua-Zou">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshua_Zou"/>
 </a>
+<a href="https://github.com/Joshua-Zou/Coin-Tunnel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshua-Zou&repo=Coin-Tunnel" />
+</a>
