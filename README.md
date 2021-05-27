@@ -8,4 +8,4 @@
 - 📫 How to reach me: joshyzou@gmail.com
 - 😄 Pronouns: He/Him/They
 
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Zou)](https://github.com/Joshua-Zou/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Zou)](https://github.com/Joshua-Zou) [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Zou)](https://github.com/Joshua-Zou)
