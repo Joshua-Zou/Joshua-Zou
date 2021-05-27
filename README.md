@@ -7,7 +7,6 @@
 - 💬 Ask me anything
 - 📫 How to reach me: joshyzou@gmail.com
 - 😄 Pronouns: He/Him/They
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joshua-Zou&repo=Coin-Tunnel)](https://github.com/Joshua-Zou)
 
 <a href="https://github.com/Joshua-Zou/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Zou&langs_count=3" />
