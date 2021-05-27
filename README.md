@@ -18,3 +18,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshua_Zou"/>
 </a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joshua-Zou&repo=github-readme-stats)](https://github.com/Joshua-Zou)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
