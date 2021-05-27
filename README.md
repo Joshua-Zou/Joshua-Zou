@@ -10,3 +10,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Zou&langs_count=3)](https://github.com/Joshua-Zou) [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-Zou)](https://github.com/Joshua-Zou)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joshua_Zou)](https://github.com/Joshua-Zou)
+
+<a href="https://github.com/Joshua-Zou/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Zou&langs_count=3" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joshua-Zou" />
+</a>
