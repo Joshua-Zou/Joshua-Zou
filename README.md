@@ -17,3 +17,4 @@
 <a href="https://github.com/Joshua-Zou">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Joshua_Zou"/>
 </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joshua-Zou&repo=github-readme-stats)](https://github.com/Joshua-Zou)
