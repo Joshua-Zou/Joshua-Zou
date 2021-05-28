@@ -24,6 +24,7 @@
 ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn&logoColor=F05032)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Express](https://img.shields.io/badge/-express-000000?style=flat&logo=express&logoColor=FFFFFF)
 ![Replit](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAAAmJLR0QA/4ePzL8AAAIbSURBVBgZdcFbaNV1HADwr4YPQhjHzcvGzE1hcyFeIFyixATD2nkRxFAQDHwQUVARRZ97iR6iaJAXpFCHMXUwSp+iMuypDHpIJ4gyU8FN3EXQzs7xfPr/+DPc8fL5RC312rxttcOuGHTJIU3xOpp9a0LyzA3H7XRKVVmPpniZLUa9qN9WDzFuc9Syz6vd9IFhVO2N52xTlRvQr9cPBk362SbJM5sjp9kYyr7UGuEtLeoiLNVtQlL0i+SRhkicxh0rrHfWfVyxx3sWRHjHAM7bIncyIjQrG7RSn2RYMaZQ8I+7GuRK5of9Krr8IXmgLTJmWqfL7MhoU1IwLtcRLjnqhKSqMzKWuyUZsTEyjltsSG5VGNClLDljWoTprps0rjFCl3ZluQWhz6dy76qPsMRU2yI0WyM36v2w3e+Sfy3UEqHVVFsjzHRY7rSvw2xlSZ9lNkaY5m+THpkbYYZbkqqiq6Egd8xKFyKj3TXJkA2RsV/uhM/1hRa579SrWBsZM6zS6c3I6PBU0q/DU7vCPCXJbxGG3bEoplA0hlEHNLrtP/MiQrdkQkEv7lkXGXMUnTOoxw6zLHUb30SiwZjkoE5J1ffWqlMwPTIW+0oJQ+ZGzkcqGNHorEkP/aTXj27IVRTjObtV8af5LnuVsk+ilo89xl/afaak1gMfxss06VEx4ohWR/zqseSJbnXxOpocctFVX+j0hjla1UWN/wF69eL2Dr6qTQAAAABJRU5ErkJggg==)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
