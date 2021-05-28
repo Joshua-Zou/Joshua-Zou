@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Joshua Zou, a 13 yr old full stack developer.
-[LinkedIn](https://www.linkedin.com/in/joshua-zou/)   |   [DevPost](https://devpost.com/Joshua-Zou)  |   [Github](https://github.com/Joshua-Zou)  |   [Replit](https://replit.com/@JoshuaZou)
+[LinkedIn](https://www.linkedin.com/in/joshua-zou/)   |   [DevPost](https://devpost.com/Joshua-Zou)  |   [Github](https://github.com/Joshua-Zou)  |   [Replit](https://replit.com/@JoshuaZou)   |   [NPM](https://www.npmjs.com/~joshyzou)
 
 ![](https://komarev.com/ghpvc/?username=Joshua-Zou&color=green)
 
