@@ -8,7 +8,6 @@
 - 👯 I'm happy to work with anyone on anything!
 - 💬 Ask me anything
 - 📫 How to reach me: joshyzou@gmail.com
-- 😄 Pronouns: He/Him/They
 
 <h4>Languages I Use</h4>
 
