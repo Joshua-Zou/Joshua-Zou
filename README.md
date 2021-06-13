@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Joshua-Zou&color=green)
 
-- 🔭 I’m currently working on [Coin-Tunnel](https://www.coin-tunnel.ml), an open source crypto payment system
+- 🔭 I’m currently working on [Coin-Tunnel](https://www.coin-tunnel.ml), an open source crypto payment system (Also working on insta-translate, a js browser package that translates the entire page contents to different languages)
 - 🌱 I’m currently learning front end ~~garbage~~ things like HTML/CSS
 - 👯 I'm happy to work with anyone on anything!
 - 💬 Ask me anything
