@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Joshua Zou, a 13 yr old full stack developer.
-[LinkedIn](https://www.linkedin.com/in/joshua-zou/)   |   [DevPost](https://devpost.com/Joshua-Zou)  |   [Github](https://github.com/Joshua-Zou)  |   [Replit](https://replit.com/@JoshuaZou)   |   [NPM](https://www.npmjs.com/~joshyzou)
+[LinkedIn](https://www.linkedin.com/in/joshua-zou/)   |   [DevPost](https://devpost.com/Joshua-Zou)  |   [Github](https://github.com/Joshua-Zou)  |   [Replit](https://replit.com/@JoshuaZou)   |   [NPM](https://www.npmjs.com/~joshyzou)  |  [Personal Website](https://www.joshuaz.dev)
 
 ![](https://komarev.com/ghpvc/?username=Joshua-Zou&color=green)
 
-- 🔭 I’m currently working on [Coin-Tunnel](https://www.coin-tunnel.ml), an open source crypto payment system (Also working on insta-translate, a js browser package that translates the entire page contents to different languages)
-- 🌱 I’m currently learning front end ~~garbage~~ things like HTML/CSS
+- 🌱 I’m currently learning algorithms and data structures
 - 👯 I'm happy to work with anyone on anything!
 - 💬 Ask me anything
 - 📫 How to reach me: joshyzou@gmail.com
