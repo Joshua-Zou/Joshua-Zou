@@ -55,9 +55,4 @@
 <a href="https://github.com/Joshua-Zou">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joshua-Zou&theme=react" />
 </a>
-<a href="https://github.com/Joshua-Zou/Coin-Tunnel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coin-Tunnel&repo=Coin-Tunnel&theme=react" />
-</a>
-<a href="https://github.com/Joshua-Zou/DynamicDerma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joshua-Zou&repo=DynamicDerma&theme=react" />
-</a>
+
