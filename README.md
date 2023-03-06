@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Joshua Zou, a 14 yr old full stack developer.
+### Hi there 👋 I'm Joshua Zou, a 15 yr old full stack developer.
 [LinkedIn](https://www.linkedin.com/in/joshua-zou/)   |   [DevPost](https://devpost.com/Joshua-Zou)  |   [Github](https://github.com/Joshua-Zou)  |   [Replit](https://replit.com/@JoshuaZou)   |   [NPM](https://www.npmjs.com/~joshyzou)  |  [Personal Website](https://www.joshuaz.dev)
 
 ![](https://komarev.com/ghpvc/?username=Joshua-Zou&color=green)
@@ -45,7 +45,8 @@
 
 ## Want to support me? 
   Bitcoin - 38krZgthX9vYqNKiQ9GzY6mpfzEC9W1E26
-  <br>Ethereum - 0x8a04852f8c15f1b2ff1ded149410c4535d944b1c
+  <br>Ethereum - 0x8a04852f8c15f1b2ff1ded
+  9410c4535d944b1c
   <br>DOGE (to the moon) - DBFhTwD7kPkvYMhxT723WtyPEhgg2YdHfF
   <br>Or if you prefer USDT - 0x8a04852f8c15f1b2ff1ded149410c4535d944b1c
 
