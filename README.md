@@ -1,13 +1,14 @@
-### Hi there 👋 I'm Joshua Zou, a 15 yr old full stack developer.
-[LinkedIn](https://www.linkedin.com/in/joshua-zou/)   |   [DevPost](https://devpost.com/Joshua-Zou)  |   [Github](https://github.com/Joshua-Zou)  |   [Replit](https://replit.com/@JoshuaZou)   |   [NPM](https://www.npmjs.com/~joshyzou)  |  [Personal Website](https://www.joshuaz.dev)
+### Hi there 👋 I'm Joshua Zou
+[LinkedIn](https://www.linkedin.com/in/joshua-zou/)   |   [DevPost](https://devpost.com/Joshua-Zou)  |   [Github](https://github.com/Joshua-Zou)  
+
+<!-- | [Replit](https://replit.com/@JoshuaZou)   |   [NPM](https://www.npmjs.com/~joshyzou) -->
 
 ![](https://komarev.com/ghpvc/?username=Joshua-Zou&color=green)
 
-- 🌱 I’m currently learning algorithms and data structures
 - 👯 I'm happy to work with anyone on anything!
 - 💬 Ask me anything
 - 📫 How to reach me: joshyzou@gmail.com
-
+<!--
 <h4>Languages I Use</h4>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -57,3 +58,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joshua-Zou&theme=react" />
 </a>
 
+-->
